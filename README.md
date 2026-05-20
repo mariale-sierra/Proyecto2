@@ -1,6 +1,7 @@
 # Calculadora React
 
 Calculadora corriendo en: https://joelsiervas.online/24405/ 
+
 Proyecto desarrollado utilizando React y Vite para práctica de componentes, testing, linting y documentación visual con Storybook.
 
 La aplicación consiste en una calculadora con interfaz inspirada en calculadoras móviles modernas, utilizando una estética minimalista en tonos rosado pastel.
