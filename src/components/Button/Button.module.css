@@ -1,0 +1,60 @@
+.button {
+  width: 65px;
+  height: 65px;
+  border: none;
+  border-radius: 50%;
+  font-size: 22px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.button:active {
+  transform: scale(0.95);
+}
+
+.number {
+  background: #ffffff;
+  color: #4a4a4a;
+}
+
+.number:hover {
+  background: #f8f8f8;
+}
+
+.operator {
+  background: #ffb6c1;
+  color: #fff;
+}
+
+.operator:hover {
+  background: #ff9aac;
+}
+
+.clear {
+  background: #ffd93d;
+  color: #4a4a4a;
+}
+
+.clear:hover {
+  background: #ffc800;
+}
+
+.equals {
+  background: #ff8fa3;
+  color: #fff;
+}
+
+.equals:hover {
+  background: #ff7089;
+}
+
+.function {
+  background: #ffe4e9;
+  color: #4a4a4a;
+}
+
+.function:hover {
+  background: #ffd6dd;
+}
